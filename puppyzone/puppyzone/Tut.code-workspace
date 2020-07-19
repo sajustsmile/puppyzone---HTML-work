@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\domcrashcourse"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\js_crash_course"
+		},
+		{
+			"path": "..\\htmlcheatsheet"
+		},
+		{
+			"path": "..\\csscheatsheet"
+		},
+		{
+			"path": "..\\javascript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "domcrashcourse"
+	}
+}
